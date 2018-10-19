@@ -1,4 +1,4 @@
-#SEQUELIZE
+# SEQUELIZE
 Aprendiendo sequelize
 
 ## Hint y Antes de empezar
