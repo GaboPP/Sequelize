@@ -228,7 +228,7 @@ users.findAll({
 //SELECT * FROM users WHERE id = 2 OR id = 1
 ~~~
 **Recomendación: NO utilizar los caracteres especiales '$or'**
-#DELETE
+# DELETE
 Para eliminar se necesita el siguiente código, como usamos foráneas, debemos cuidar de eliminar primero en compras y luego en usuario, si es que quisieramos eliminar un usuario:
 ~~~
 compras.destroy({
