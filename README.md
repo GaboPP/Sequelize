@@ -238,7 +238,7 @@ compras.destroy({
   });
 // DELETE FROM users WHERE id = 5;
 ~~~
-#UPDATE
+# UPDATE
 Luego si queremos hacer un update, hacemos lo siguiente
 ~~~
 users.update({
@@ -250,7 +250,7 @@ users.update({
   });
   // UPDATE users SET Nombre = juan WHERE id=3;
 ~~~
-#INSERT
+# INSERT
 Para hacer una nueva inserción en una tabla se sigue la siguiente estructura:
 ~~~
 compras.create({
