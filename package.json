@@ -21,7 +21,10 @@
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.4",
+    "pg": "^7.5.0",
+    "pg-hstore": "^2.3.2",
     "rxjs": "^6.0.0",
+    "sequelize": "^4.39.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
